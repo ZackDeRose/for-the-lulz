@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "for-the-lulz-is-odd": "file:../for-the-lulz-is-odd"
-  }
+  },
+  "foo": {}
 }

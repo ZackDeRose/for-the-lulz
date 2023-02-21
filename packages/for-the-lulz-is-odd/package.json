@@ -18,5 +18,6 @@
     "build": "tsc",
     "test": "jest",
     "prepublish": "lerna run build --scope=for-the-lulz-is-odd"
-  }
+  },
+  "foo": {}
 }
